@@ -18,4 +18,4 @@ ESP32-CAM을 사용하여 media server에 영상을 스트리밍하고, media se
 
 ## 구성도
 
-![구성도](delivery.jpg)
+![구성도](CCTV.jpg)
