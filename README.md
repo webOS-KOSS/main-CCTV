@@ -12,9 +12,9 @@ ESP32-CAM을 사용하여 web server에 영상을 스트리밍하고, 해당 영
 
 - [X] ESP32-CAM 영상 스트리밍
 - [ ] ~~media server 제작~~
-- [ ] webOS 웹앱(CCTV 모니터링)
+- [X] webOS 웹앱(CCTV 모니터링)
 ---
-- [ ] 최종 구현(연계)
+- [X] 최종 구현(연계)
 
 ## 구성도
 
