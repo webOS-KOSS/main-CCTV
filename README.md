@@ -40,6 +40,9 @@ __ESP32-CAM 설정__ : <a href="">ESP32-CAM 설정</a>
 ### IPK
 Description : ENACT app의 ipk 파일을 제공합니다.
 
+```bash
+ares-install com.cctv.app_1.0.0_all.ipk
+```
 ## 진행 상황
 
 - [X] ESP32-CAM 영상 스트리밍
