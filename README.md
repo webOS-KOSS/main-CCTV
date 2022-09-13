@@ -21,10 +21,10 @@ __개인별 수정할 부분__ : ESP32-CAM의 Ip Address를 CCTV_ENACT_APP/src/v
 ```javascript
   <img src="http://***.***.***.***/" />
 ```
-해당 부분의 IP를 수정하면 됩니다.
+해당 부분의 IP를 ESP32-CAM의 IP와 맞게 수정하시면 됩니다.
 <br/>
 
-__Enact 설정__ : Enact 설정
+__Enact 설정__ : <a href="">Enact 설정</a>
 
 
 ---
@@ -34,7 +34,7 @@ __Enact 설정__ : Enact 설정
 <li>Type : Arduino AI Thinker ESP32-CAM </li>
 <br/>
 
-__ESP32-CAM 설정__ : ESP32-CAM 설정
+__ESP32-CAM 설정__ : <a href="">ESP32-CAM 설정</a>
 
 ## 진행 상황
 
