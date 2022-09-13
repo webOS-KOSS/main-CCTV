@@ -1,7 +1,7 @@
 #! /bin/bash
 echo "setting..."
 npm install
-yarn add react-router-dom@5.3.0
+yarn install
 
 echo "packaging..."
 npm run pack-p
