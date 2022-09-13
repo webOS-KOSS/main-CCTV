@@ -26,7 +26,6 @@ __개인별 수정할 부분__ : ESP32-CAM의 Ip Address를 CCTV_ENACT_APP/src/v
 
 __Enact 설정__ : <a href="">Enact 설정</a>
 
-
 ---
 
 ### Arduino_CCTV
@@ -35,6 +34,11 @@ __Enact 설정__ : <a href="">Enact 설정</a>
 <br/>
 
 __ESP32-CAM 설정__ : <a href="">ESP32-CAM 설정</a>
+
+---
+
+###IPK
+Description : ENACT app의 ipk 파일을 제공합니다.
 
 ## 진행 상황
 
