@@ -24,7 +24,7 @@ __개인별 수정할 부분__ : ESP32-CAM의 Ip Address를 CCTV_ENACT_APP/src/v
 해당 부분의 IP를 ESP32-CAM의 IP와 맞게 수정하시면 됩니다.
 <br/>
 
-__Enact 설정__ : <a href="https://github.com/webOS-KOSS/main-setting/blob/main/webOS/Enact.md">Enact 설정</a>
+__Enact 환경 설정__ : <a href="https://github.com/webOS-KOSS/main-setting/blob/main/webOS/Enact.md">Enact 설정</a>
 
 ---
 
