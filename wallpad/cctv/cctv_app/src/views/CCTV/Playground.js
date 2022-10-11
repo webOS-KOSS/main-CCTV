@@ -16,7 +16,7 @@ const Playground = ({ children }) => {
           </ul>
         </div>
         <div className="content">
-          <img src="http://192.168.1.28/" />
+          <img src="http://192.168.1.110/" style={{width:'1000px', marginLeft:'-1367px'}}/>  
         </div>
       </div>
   </div>
